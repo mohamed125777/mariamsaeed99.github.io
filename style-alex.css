@@ -209,11 +209,11 @@ tr:nth-child(even) {
 
 .map {
     position: absolute;
-    top: calc(100% + 20px); /* Adjust the distance from the registration form */
+    top: calc(100% + 20px); 
     left: 50%;
     transform: translateX(-50%);
-    width: 90%; /* Adjust the width as needed */
-    height: 300px; /* Adjust the height as needed */
+    width: 90%; 
+    height: 300px;
     border: none;
 }
 
